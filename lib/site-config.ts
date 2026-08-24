@@ -1,9 +1,9 @@
 export const site = {
   name: 'Rajesh Home Tuitions',
   shortName: 'Rajesh',
-  phone: '6302267422',
+  phone: '916302267422',
   phoneDisplay: '+91 63022 67422',
-  whatsapp: '6302267422',
+  whatsapp: '916302267422',
   city: 'Hyderabad',
   location: 'F9RW+VC Hyderabad, Telangana',
   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rajesh-Home-tuitions-Logo-maWEZqXIDXP7j5nE7gykXUJPbo8MIh.png',
