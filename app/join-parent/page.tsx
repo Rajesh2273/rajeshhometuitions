@@ -1,0 +1,2 @@
+import { SiteShell, PageHero, EnquiryForm } from '@/components/site'
+export default function JoinParent() { return <SiteShell><main><PageHero eyebrow="FOR PARENTS" title="Find learning support that fits." text="Tell us about your child and we’ll start a conversation about the right home tuition support." /><section className="section"><div className="container form-wrap"><EnquiryForm /></div></section></main></SiteShell> }

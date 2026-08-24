@@ -1,0 +1,2 @@
+import { SiteShell, PageHero, EnquiryForm } from '@/components/site'
+export default function JoinTutor() { return <SiteShell><main><PageHero eyebrow="FOR TUTORS" title="Bring your teaching closer to home." text="If you are a thoughtful, experienced tutor, we’d like to hear about the subjects and students you support." /><section className="section"><div className="container form-wrap"><EnquiryForm tutor /></div></section></main></SiteShell> }

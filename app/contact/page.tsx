@@ -1,0 +1,4 @@
+import { SiteShell, PageHero, EnquiryForm, LocationMap } from '@/components/site'
+import { site, telLink, whatsappLink } from '@/lib/site-config'
+
+export default function Contact() { return <SiteShell><main><PageHero eyebrow="CONTACT US" title="Let’s talk about learning." text="Share a few details and we’ll help you understand the next step." /><section className="section"><div className="container contact-grid"><div><h2>Reach us directly</h2><p>Call or WhatsApp for a quick conversation about home tuition in Hyderabad.</p><a className="contact-detail" href={telLink}>{site.phoneDisplay}</a><a className="contact-detail" href={whatsappLink('Hi Rajesh Home Tuitions, I would like to enquire about home tuition.')} target="_blank" rel="noreferrer">WhatsApp us</a><a className="contact-detail" href={site.mapUrl} target="_blank" rel="noreferrer">{site.location} →</a></div><EnquiryForm /></div></section><LocationMap /></main></SiteShell> }

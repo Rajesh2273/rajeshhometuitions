@@ -1,0 +1,2 @@
+import { SiteShell, PageHero, ZoneList } from '@/components/site'
+export default function Zones() { return <SiteShell><main><PageHero eyebrow="SERVICE ZONES" title="Home tuition across Hyderabad." text="Search your area below. If you don’t see it listed, call us and we’ll check availability." /><section className="section"><div className="container narrow"><ZoneList /></div></section></main></SiteShell> }
