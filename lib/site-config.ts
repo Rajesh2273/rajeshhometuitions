@@ -1,9 +1,9 @@
 export const site = {
   name: 'Rajesh Home Tuitions',
   shortName: 'Rajesh',
-  phone: '916302267422',
-  phoneDisplay: '+91 63022 67422',
-  whatsapp: '916302267422',
+  phone: '919032605310',
+  phoneDisplay: '+91 90326 05310',
+  whatsapp: '919032605310',
   city: 'Hyderabad',
   location: 'F9RW+VC Hyderabad, Telangana',
   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rajesh-Home-tuitions-Logo-maWEZqXIDXP7j5nE7gykXUJPbo8MIh.png',
@@ -37,7 +37,7 @@ export const faqs = [
   { q: 'Which classes and subjects do you cover?', a: 'We support students from Class 1 through Class 12 across Mathematics, Science, English, Social Studies, Hindi, Telugu, and senior-secondary subjects such as Physics, Chemistry, and Biology.' },
   { q: 'Do you provide tuition at home?', a: 'Yes. Our tutors visit students at home in our Hyderabad service zones. Share your area and requirements and we will help identify a suitable tutor.' },
   { q: 'Which boards do you support?', a: 'We work with CBSE, ICSE, State Board, and International curricula.' },
-  { q: 'How do I get started?', a: 'Call or WhatsApp us at +91 63022 67422 with your child’s class, subject, area, and preferred schedule. We will discuss the next steps.' },
+  { q: 'How do I get started?', a: 'Call or WhatsApp us at +91 90326 05310 with your child’s class, subject, area, and preferred schedule. We will discuss the next steps.' },
   { q: 'Can I request a specific subject or schedule?', a: 'Absolutely. Tell us your preferred subject, days, and timings in the enquiry form so we can match the request thoughtfully.' },
 ]
 
